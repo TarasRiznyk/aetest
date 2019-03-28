@@ -5,8 +5,7 @@
 Some of the criterias are not implemented  
 You can add 3rd parameter as Id of the element  
 
-
-##1 Case:
+## 1 Case
 
 Params: ./samples/htmls/sample-0-origin.html   ./samples/htmls/sample-1-evil-gemini.html
 
@@ -28,9 +27,7 @@ Criteria matched:
 Visible Text Criteria, ClassName criteria
 
 
-
-
-##2 Case
+## 2 Case
 
 Params: ./samples/htmls/sample-0-origin.html ./samples/htmls/sample-2-container-and-clone.html
 
