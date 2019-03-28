@@ -3,7 +3,7 @@
 
 
 Some of the criterias are not implemented
-
+You can add 3rd parameter as Id of the element
 ##1 Case:
 
 Params: ./samples/htmls/sample-0-origin.html   ./samples/htmls/sample-1-evil-gemini.html
