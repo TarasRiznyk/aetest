@@ -7,7 +7,7 @@ You can add 3rd parameter as Id of the element
 
 ## 1 Case
 
-Params: ./samples/htmls/sample-0-origin.html   ./samples/htmls/sample-1-evil-gemini.html
+java - jar ae-backend-xml-java-snippets-0.0.1.jar ./samples/htmls/sample-0-origin.html   ./samples/htmls/sample-1-evil-gemini.html
 
 Output: 
 
@@ -29,7 +29,7 @@ Visible Text Criteria, ClassName criteria
 
 ## 2 Case
 
-Params: ./samples/htmls/sample-0-origin.html ./samples/htmls/sample-2-container-and-clone.html
+java - jar ae-backend-xml-java-snippets-0.0.1.jar  ./samples/htmls/sample-0-origin.html ./samples/htmls/sample-2-container-and-clone.html
 
 Output: 
 [INFO] 2019-03-28 22:11:14,883 c.a.c.VisibleTextCriteria - Learned element's visible text Make everything OK
@@ -48,7 +48,7 @@ Visible Text Criteria, Href criteria
 
 
 ## 3 Case:
-Params:  ./samples/htmls/sample-0-origin.html ./samples/htmls/sample-3-the-escape.html
+java - jar ae-backend-xml-java-snippets-0.0.1.jar   ./samples/htmls/sample-0-origin.html ./samples/htmls/sample-3-the-escape.html
 
 [INFO] 2019-03-28 22:12:04,744 c.a.c.VisibleTextCriteria - Learned element's visible text Make everything OK
 [INFO] 2019-03-28 22:12:04,745 c.a.c.ClassNameCriteria - Learned element's visible text btn btn-success
@@ -67,7 +67,7 @@ ClassName criteria, Href criteria
 
 ##4 Case: 
 
-Params:  ./samples/htmls/sample-0-origin.html ./samples/htmls/sample-4-the-mash.html
+java - jar ae-backend-xml-java-snippets-0.0.1.jar   ./samples/htmls/sample-0-origin.html ./samples/htmls/sample-4-the-mash.html
 
 2 Elements are found because of lacking some criterias
 
